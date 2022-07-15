@@ -1,4 +1,13 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  background-color: #ff5555;
+}
+
+.ContactDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
